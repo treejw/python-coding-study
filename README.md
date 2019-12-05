@@ -7,7 +7,7 @@
 - https://www.hackerrank.com
 
 ## Repository
-- [My Codes](https://github.com/treejw/my_HackerRank)
+- [My Repository](https://github.com/treejw/my_HackerRank)
 - [Python Coding Study Group](https://github.com/Nayoung1124/Hackerrank)
 
 
