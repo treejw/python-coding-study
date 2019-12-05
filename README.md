@@ -11,7 +11,7 @@
 - [Python Coding Study Group](https://github.com/Nayoung1124/Hackerrank)
 
 
-## Study
+## Study Contents
 #### W00
 - [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | 
 [Code]()
