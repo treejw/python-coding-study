@@ -18,7 +18,6 @@
 <summary><b>HackerRank Codes</b></summary>
 <div markdown="1">
 
-#### HackerRank Codes
 <table>
     <tbody>
         <!-- 0 주차 -->
@@ -36,6 +35,9 @@
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/The_Minion_Game.py">Code</a></td>
             <td colspan="2" align=center></td>
         </tr>
+        <tr>
+            <td colspan="4" align=center></td>
+        </tr>
         <!-- 1 주차 -->
         <tr>
             <td colspan="4" align=center><strong>--- W01 ---</strong></td>
@@ -51,6 +53,9 @@
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/No_idea.py">Code</a></td>
             <td colspan="2" align=center></td>
         </tr>
+        <tr>
+            <td colspan="4" align=center></td>
+        </tr>
         <!-- 2 주차 -->
         <tr>
             <td colspan="4" align=center><strong>--- W02 ---</strong></td>
@@ -65,6 +70,9 @@
             <td align=center><a href="https://www.hackerrank.com/challenges/equal-stacks/problem">Equal stacks</a></td>
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/Equal_stacks.py">Code</a></td>
             <td colspan="2" align=center></td>
+        </tr>
+        <tr>
+            <td colspan="4" align=center></td>
         </tr>
         <!-- 3 주차 -->
         <tr>
@@ -102,6 +110,9 @@
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Transpose_and_Flatten.py">Code</a></td>
             <td colspan="2" align=center></td>
         </tr>
+        <tr>
+            <td colspan="4" align=center></td>
+        </tr>
         <!-- 5 주차 -->
         <tr>
             <td colspan="4" align=center><strong>--- W05 ---</strong></td>
@@ -122,6 +133,9 @@
             <td align=center><a href="https://www.hackerrank.com/challenges/np-zeros-and-ones/problem">Numpy - Zeros and Ones</a></td>
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Zeros_and_Ones.py">Code</a></td>
             <td colspan="2" align=center></td>
+        </tr>
+        <tr>
+            <td colspan="4" align=center></td>
         </tr>
         <!-- 6 주차 -->
         <tr>
@@ -144,6 +158,9 @@
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Zeros_and_Ones.py">Code</a></td>
             <td colspan="2" align=center></td>
         </tr>
+        <tr>
+            <td colspan="4" align=center></td>
+        </tr>
         <!-- 7 주차 -->
         <tr>
             <td colspan="4" align=center><strong>--- W07 ---</strong></td>
@@ -165,6 +182,9 @@
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Min_and_Max.py">Code</a></td>
             <td colspan="2" align=center></td>
         </tr>
+        <tr>
+            <td colspan="4" align=center></td>
+        </tr>
         <!-- 8 주차 -->
         <tr>
             <td colspan="4" align=center><strong>--- W08 ---</strong></td>
@@ -185,6 +205,9 @@
             <td align=center><a href="https://www.hackerrank.com/challenges/np-linear-algebra/problem">Numpy - Linear Algebra</a></td>
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Linear_Algebra.py">Code</a></td>
             <td colspan="2" align=center></td>
+        </tr>
+        <tr>
+            <td colspan="4" align=center></td>
         </tr>
     </tbody>
 </table>
