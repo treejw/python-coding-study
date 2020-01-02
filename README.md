@@ -1,7 +1,7 @@
 # My Codes - HackerRank & Baekjoon
 ### Python 코딩 스터디 
 - 스터디 기간 : 2019/9/20 ~ 
-- 매주 HackerRank 문제 3개씩 풀기
+- 매주 HackerRank, Baekjoon 문제 풀고 코드 업로드
 
 ## HackerRank & Baekjoon
 - **HackerRank** : https://www.hackerrank.com
