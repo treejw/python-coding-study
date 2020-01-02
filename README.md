@@ -22,9 +22,7 @@
     <tbody>
         <!-- 0 주차 -->
         <tr>
-            <td colspan="4" align=center><strong>--- W00 ---</strong></td>
-        </tr>
-        <tr>
+            <td rowspan="2" align=center><strong>W00</strong></td>
              <td align=center><a href="https://www.hackerrank.com/challenges/array-left-rotation/problem">Left Rotation</a></td>
              <td><a>Code</a></td>
              <td align=center><a href="https://www.hackerrank.com/challenges/merge-the-tools/problem">Merge the Tools</a></td>
@@ -35,14 +33,9 @@
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/The_Minion_Game.py">Code</a></td>
             <td colspan="2" align=center></td>
         </tr>
-        <tr>
-            <td colspan="4" align=center></td>
-        </tr>
         <!-- 1 주차 -->
         <tr>
-            <td colspan="4" align=center><strong>--- W01 ---</strong></td>
-        </tr>
-        <tr>
+            <td rowspan="2" align=center><strong>W01</strong></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/dynamic-array/problem">Dynamic Array</a></td>
             <td align=center><a href="">Code</a></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/iterables-and-iterators/problem">Iterables and Iterators</a></td>
@@ -52,15 +45,9 @@
             <td align=center><a href="https://www.hackerrank.com/challenges/no-idea/problem">No Idea</a></td>
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/No_idea.py">Code</a></td>
             <td colspan="2" align=center></td>
-        </tr>
-        <tr>
-            <td colspan="4" align=center></td>
-        </tr>
         <!-- 2 주차 -->
         <tr>
-            <td colspan="4" align=center><strong>--- W02 ---</strong></td>
-        </tr>
-        <tr>
+            <td rowspan="2" align=center><strong>W02</strong></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem">Classes: Dealing with Complex Numbers</a></td>
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/Classes-Dealing_with_Complex_Numbers.py">Code</a></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem">Class 2 - Find the Torsional Angle</a></td>
@@ -71,14 +58,9 @@
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/Equal_stacks.py">Code</a></td>
             <td colspan="2" align=center></td>
         </tr>
-        <tr>
-            <td colspan="4" align=center></td>
-        </tr>
         <!-- 3 주차 -->
         <tr>
-            <td colspan="4" align=center><strong>--- W03 ---</strong></td>
-        </tr>
-        <tr>
+            <td rowspan="2" align=center><strong>W03</strong></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem">Sherlock and Anagrams</a></td>
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/Sherlock_and_Anagrams.py">Code</a></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/simple-text-editor/problem">Simple Text Editor</a></td>
@@ -91,9 +73,7 @@
         </tr>
         <!-- 4 주차 -->
         <tr>
-            <td colspan="4" align=center><strong>--- W04 ---</strong></td>
-        </tr>
-        <tr>
+            <td rowspan="3" align=center><strong>W04</strong></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/np-arrays/problem">Numpy - Arrays</a></td>
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Arrays.py">Code</a></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/counting-valleys/problem">Counting Valleys</a></td>
@@ -110,14 +90,9 @@
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Transpose_and_Flatten.py">Code</a></td>
             <td colspan="2" align=center></td>
         </tr>
-        <tr>
-            <td colspan="4" align=center></td>
-        </tr>
         <!-- 5 주차 -->
         <tr>
-            <td colspan="4" align=center><strong>--- W05 ---</strong></td>
-        </tr>
-        <tr>
+            <td rowspan="3" align=center><strong>W05</strong></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/np-concatenate/problem">Numpy - Concatenate</a></td>
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Concatenate.py">Code</a></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/counting-valleys/problem">Counting Valleys</a></td>
@@ -134,14 +109,9 @@
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Zeros_and_Ones.py">Code</a></td>
             <td colspan="2" align=center></td>
         </tr>
-        <tr>
-            <td colspan="4" align=center></td>
-        </tr>
         <!-- 6 주차 -->
         <tr>
-            <td colspan="4" align=center><strong>--- W06 ---</strong></td>
-        </tr>
-        <tr>
+            <td rowspan="3" align=center><strong>W06</strong></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/np-concatenate/problem">Numpy - Concatenate</a></td>
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Concatenate.py">Code</a></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/cats-and-a-mouse/problem">Cats and a Mouse</a></td>
@@ -158,14 +128,9 @@
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Zeros_and_Ones.py">Code</a></td>
             <td colspan="2" align=center></td>
         </tr>
-        <tr>
-            <td colspan="4" align=center></td>
-        </tr>
         <!-- 7 주차 -->
         <tr>
-            <td colspan="4" align=center><strong>--- W07 ---</strong></td>
-        </tr>
-        <tr>
+            <td rowspan="3" align=center><strong>W07</strong></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/np-dot-and-cross/problem">Numpy - Dot and Cross</a></td>
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Dot_and_Cross.py">Code</a></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/bigger-is-greater/problem">Bigger is Greater</a></td>
@@ -182,14 +147,9 @@
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Min_and_Max.py">Code</a></td>
             <td colspan="2" align=center></td>
         </tr>
-        <tr>
-            <td colspan="4" align=center></td>
-        </tr>
         <!-- 8 주차 -->
         <tr>
-            <td colspan="4" align=center><strong>--- W08 ---</strong></td>
-        </tr>
-        <tr>
+            <td rowspan="3" align=center><strong>W08</strong></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/np-inner-and-outer/problem">Numpy - Inner and Outer</a></td>
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Inner_and_Outer.py">Code</a></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/designer-pdf-viewer/problem">Designer PDF Viewer</a></td>
@@ -205,9 +165,6 @@
             <td align=center><a href="https://www.hackerrank.com/challenges/np-linear-algebra/problem">Numpy - Linear Algebra</a></td>
             <td align=center><a href="https://github.com/treejw/my_HackerRank/blob/master/codes/numpy/Linear_Algebra.py">Code</a></td>
             <td colspan="2" align=center></td>
-        </tr>
-        <tr>
-            <td colspan="4" align=center></td>
         </tr>
     </tbody>
 </table>
