@@ -3,15 +3,6 @@
 - 스터디 기간 : 2019/9/20 ~ 
 - 매주 HackerRank, Baekjoon 문제 풀고 코드 업로드
 
-## HackerRank & Baekjoon
-- **HackerRank** : https://www.hackerrank.com
-- **Baekjoon** : https://www.acmicpc.net
-
-## Repository
-- [My Repository](https://github.com/treejw/my_HackerRank)
-- [Python Coding Study Group](https://github.com/Nayoung1124/Hackerrank)
-
-
 ## Study Contents
 
 <details>
@@ -225,3 +216,15 @@
 
 </div>
 </details>
+
+
+
+## HackerRank & Baekjoon
+- **HackerRank** : https://www.hackerrank.com
+- **Baekjoon** : https://www.acmicpc.net
+
+## Repository
+- [My Repository](https://github.com/treejw/my_HackerRank)
+- [Python Coding Study Group](https://github.com/Nayoung1124/Hackerrank)
+
+
