@@ -171,9 +171,9 @@
 
 <table>
     <tbody>
-        <!-- 1 주차 -->
+        <!-- 9 주차 -->
         <tr>
-            <td rowspan="2" align=center><strong>W01</strong></td>
+            <td rowspan="2" align=center><strong>W09</strong></td>
              <td align=center><a href="https://www.acmicpc.net/problem/2839">설탕 배달 (2839)</a></td>
              <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/2839_설탕배달.py">my code</a></td>
              <td align=center><a href="https://www.acmicpc.net/problem/2798">블랙잭 (2789)</a></td>
@@ -185,9 +185,9 @@
             <td align=center><a href="https://www.acmicpc.net/problem/10992">별 찍기 17 (10992)</a></td>
             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/10992_별찍기17.py">my code</a></td>
         </tr>
-        <!-- 2 주차 -->
+        <!-- 10 주차 -->
         <tr>
-            <td rowspan="4" align=center><strong>W02</strong></td>
+            <td rowspan="4" align=center><strong>W10</strong></td>
              <td align=center><a href="https://www.acmicpc.net/problem/10993">별 찍기 18 (10993)</a></td>
              <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/10993_별찍기18.py">my code</a></td>
              <td align=center><a href="https://www.acmicpc.net/problem/10994">별 찍기 19 (10994)</a></td>
