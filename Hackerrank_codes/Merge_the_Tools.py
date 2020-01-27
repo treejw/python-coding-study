@@ -1,8 +1,8 @@
 def merge_the_tools(string, k):
     for i in range(0, len(string), k):
         s_split = string[i:i+k]
-        output = s_split[0]
-        for s in s_split[1:]:
+        output = ''
+        for s in s_split:
             if s in output:
                 continue
             output += s
