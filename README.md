@@ -205,7 +205,7 @@
              <td align=center><a href="https://www.acmicpc.net/problem/10993">별 찍기 18 (10993)</a></td>
              <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/10993_별찍기18.py">my code</a></td>
              <td align=center><a href="https://www.acmicpc.net/problem/10994">별 찍기 19 (10994)</a></td>
-             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/10993_별찍기19.py">my code</a></td>
+             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/10994_별찍기19.py">my code</a></td>
         </tr>
         <tr>
             <td align=center><a href="https://www.acmicpc.net/problem/2869">달팽이는 올라가고 싶다 (2869)</a></td>
