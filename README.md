@@ -11,11 +11,18 @@
 
 <table>
     <tbody>
+        <tr>
+            <td align=center></td>
+             <td align=center><strong>문제</strong></td>
+             <td align=center><strong>코드</strong></td>
+             <td align=center><strong>문제</strong></td>
+             <td align=center><strong>코드</strong></td>
+        </tr>
         <!-- 0 주차 -->
         <tr>
             <td rowspan="2" align=center><strong>W00</strong></td>
              <td align=center><a href="https://www.hackerrank.com/challenges/array-left-rotation/problem">Left Rotation</a></td>
-             <td><a>my code</a></td>
+             <td align=center><a>my code</a></td>
              <td align=center><a href="https://www.hackerrank.com/challenges/merge-the-tools/problem">Merge the Tools</a></td>
              <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Hackerrank_codes/Merge_the_Tools.py">my code</a></td>
         </tr>
@@ -171,6 +178,13 @@
 
 <table>
     <tbody>
+        <tr>
+            <td align=center></td>
+             <td align=center><strong>문제</strong></td>
+             <td align=center><strong>코드</strong></td>
+             <td align=center><strong>문제</strong></td>
+             <td align=center><strong>코드</strong></td>
+        </tr>
         <!-- 9 주차 -->
         <tr>
             <td rowspan="2" align=center><strong>W09</strong></td>
@@ -224,6 +238,20 @@
             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/1260_DFS와_BFS.py">my code</a></td>
             <td align=center><a href="https://www.acmicpc.net/problem/2606">바이러스 (2606)</a></td>
             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/2606_바이러스.py">my code</a></td>
+        </tr>
+        <!-- 12 주차 -->
+        <tr>
+            <td rowspan="2" align=center><strong>W12</strong></td>
+             <td align=center><a href="https://www.acmicpc.net/problem/1149">RGB거리 (1149)</a></td>
+             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/1149_RGB거리.py">my code</a></td>
+             <td align=center><a href="https://www.acmicpc.net/problem/2667">단지번호붙이기 (2667)</a></td>
+             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/2667_단지번호붙이기.py">my code</a></td>
+        </tr>
+        <tr>
+            <td align=center><a href="https://www.acmicpc.net/problem/1931">회의실배정 (1931)</a></td>
+            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/1931_회의실배정.py">my code</a></td>
+            <td align=center><a href="https://www.acmicpc.net/problem/11725">트리의 부모 찾기 (11725)</a></td>
+            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/11725_트리의_부모_찾기.py">my code</a></td>
         </tr>
     </tbody>
 </table>
