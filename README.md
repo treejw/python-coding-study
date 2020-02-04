@@ -110,20 +110,20 @@
         <!-- 6 주차 -->
         <tr>
             <td rowspan="3" align=center><strong>W06</strong></td>
-            <td align=center><a href="https://www.hackerrank.com/challenges/np-concatenate/problem">Numpy - Concatenate</a></td>
-            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Hackerrank_codes/numpy/Concatenate.py">my code</a></td>
+            <td align=center><a href="https://www.hackerrank.com/challenges/np-array-mathematics/problem">Numpy - Array Mathematics</a></td>
+            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Hackerrank_codes/numpy/Array_Mathematics.py">my code</a></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/cats-and-a-mouse/problem">Cats and a Mouse</a></td>
             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Hackerrank_codes/Cats_and_a_Mouse.py">my code</a></td>
         </tr>
         <tr>
-            <td align=center><a href="https://www.hackerrank.com/challenges/np-eye-and-identity/problem">Numpy - Eye and Identity</a></td>
-            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Hackerrank_codes/numpy/Eye_and_Identity.py">my code</a></td>
+            <td align=center><a href="https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem">Numpy - Floor, Ceil and Rint</a></td>
+            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Hackerrank_codes/numpy/Floor_Ceil_and_Rint.py">my code</a></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/magic-square-forming/problem">Forming a Magic Square</a></td>
             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Hackerrank_codes/Forming_a_Magic_Square.py">my code</a></td>
         </tr>
         <tr>
-            <td align=center><a href="https://www.hackerrank.com/challenges/np-zeros-and-ones/problem">Numpy - Zeros and Ones</a></td>
-            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Hackerrank_codes/numpy/Zeros_and_Ones.py">my code</a></td>
+            <td align=center><a href="https://www.hackerrank.com/challenges/np-sum-and-prod/problem">Numpy - Sum and Prod</a></td>
+            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Hackerrank_codes/numpy/Sum_and_Prod.py">my code</a></td>
             <td colspan="2" align=center></td>
         </tr>
         <!-- 7 주차 -->
