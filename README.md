@@ -216,8 +216,8 @@
             <td rowspan="2" align=center><strong>W11</strong></td>
              <td align=center><a href="https://www.acmicpc.net/problem/11726">2×n 타일링 (11726)</a></td>
              <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/11726_2×n_타일링.py">my code</a></td>
-             <td align=center><a href="https://www.acmicpc.net/problem/11047">동전 0 (10994)</a></td>
-             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/11047_동전0.py.py">my code</a></td>
+             <td align=center><a href="https://www.acmicpc.net/problem/11047">동전 0 (11047)</a></td>
+             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/11047_동전0.py">my code</a></td>
         </tr>
         <tr>
             <td align=center><a href="https://www.acmicpc.net/problem/1260">DFS와 BFS (1260)</a></td>
