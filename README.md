@@ -35,7 +35,7 @@
         <tr>
             <td rowspan="2" align=center><strong>W01</strong></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/dynamic-array/problem">Dynamic Array</a></td>
-            <td align=center><a href="">my code</a></td>
+            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Hackerrank_codes/Dynamic_Array.py">my code</a></td>
             <td align=center><a href="https://www.hackerrank.com/challenges/iterables-and-iterators/problem">Iterables and Iterators</a></td>
             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Hackerrank_codes/Iterables_and_Iterators.py">my code</a></td>
         </tr>
