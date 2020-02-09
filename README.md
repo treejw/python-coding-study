@@ -253,6 +253,20 @@
             <td align=center><a href="https://www.acmicpc.net/problem/11725">트리의 부모 찾기 (11725)</a></td>
             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/11725_트리의_부모_찾기.py">my code</a></td>
         </tr>
+        <!-- 13 주차 -->
+        <tr>
+            <td rowspan="2" align=center><strong>W13</strong></td>
+             <td align=center><a href="https://www.acmicpc.net/problem/2579">계단오르기 (2579)</a></td>
+             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/2579_계단오르기.py">my code</a></td>
+             <td align=center><a href="https://www.acmicpc.net/problem/1541">잃어버린_괄호 (1541)</a></td>
+             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/1541_잃어버린_괄호.py">my code</a></td>
+        </tr>
+        <tr>
+            <td align=center><a href="https://www.acmicpc.net/problem/10799">쇠막대기 (10799)</a></td>
+            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/10799_쇠막대기.py">my code</a></td>
+            <td align=center><a href="https://www.acmicpc.net/problem/1924">2007년 (1924)</a></td>
+            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/1924_2007년.py">my code</a></td>
+        </tr>
     </tbody>
 </table>
 
