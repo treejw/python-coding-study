@@ -258,7 +258,7 @@
             <td rowspan="2" align=center><strong>W13</strong></td>
              <td align=center><a href="https://www.acmicpc.net/problem/2579">계단오르기 (2579)</a></td>
              <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/2579_계단오르기.py">my code</a></td>
-             <td align=center><a href="https://www.acmicpc.net/problem/1541">잃어버린_괄호 (1541)</a></td>
+             <td align=center><a href="https://www.acmicpc.net/problem/1541">잃어버린 괄호 (1541)</a></td>
              <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/1541_잃어버린_괄호.py">my code</a></td>
         </tr>
         <tr>
@@ -266,6 +266,20 @@
             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/10799_쇠막대기.py">my code</a></td>
             <td align=center><a href="https://www.acmicpc.net/problem/1924">2007년 (1924)</a></td>
             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/1924_2007년.py">my code</a></td>
+        </tr>
+        <!-- 14 주차 -->
+        <tr>
+            <td rowspan="2" align=center><strong>W14</strong></td>
+             <td align=center><a href="https://www.acmicpc.net/problem/1932">정수 삼각형 (1932)</a></td>
+             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/1932_정수_삼각형.py">my code</a></td>
+             <td align=center><a href="https://www.acmicpc.net/problem/1946">신입 사원 (1946)</a></td>
+             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/1946_신입_사원.py">my code</a></td>
+        </tr>
+        <tr>
+            <td align=center><a href="https://www.acmicpc.net/problem/2164">카드2 (2164)</a></td>
+            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/2164_카드2.py">my code</a></td>
+             <td align=center><a href="https://www.acmicpc.net/problem/2630">색종이 만들기 (2630)</a></td>
+             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/2630_색종이_만들기.py">my code</a></td>
         </tr>
     </tbody>
 </table>
