@@ -281,6 +281,20 @@
              <td align=center><a href="https://www.acmicpc.net/problem/2630">색종이 만들기 (2630)</a></td>
              <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/2630_색종이_만들기.py">my code</a></td>
         </tr>
+        <!-- 15 주차 -->
+        <tr>
+            <td rowspan="2" align=center><strong>W15</strong></td>
+             <td align=center><a href="https://www.acmicpc.net/problem/1463">1로 만들기 (1463)</a></td>
+             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/1463_1로_만들기.py">my code</a></td>
+             <td align=center><a href="https://www.acmicpc.net/problem/11866">요세푸스 문제 0 (11866)</a></td>
+             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/11866_요세푸스_문제_0.py">my code</a></td>
+        </tr>
+        <tr>
+            <td align=center><a href="https://www.acmicpc.net/problem/1992">쿼드트리 (1992)</a></td>
+            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/1992_쿼드트리.py">my code</a></td>
+            <td align=center></td>
+            <td align=center></td>
+        </tr>
     </tbody>
 </table>
 
