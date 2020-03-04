@@ -295,6 +295,20 @@
             <td align=center></td>
             <td align=center></td>
         </tr>
+        <!-- 16 주차 -->
+        <tr>
+            <td rowspan="2" align=center><strong>W16</strong></td>
+             <td align=center><a href="https://www.acmicpc.net/problem/1966">프린터 큐 (1966)</a></td>
+             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/1966_프린터_큐.py">my code</a></td>
+             <td align=center><a href="https://www.acmicpc.net/problem/10844">쉬운 계단 수 (10844)</a></td>
+             <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/10844_쉬운_계단_수.py">my code</a></td>
+        </tr>
+        <tr>
+            <td align=center><a href="https://www.acmicpc.net/problem/1780">종이의 개수 (1780)</a></td>
+            <td align=center><a href="https://github.com/treejw/Python_Hackerrank_Baekjoon/blob/master/Baekjoon_codes/1780_종이의_개수.py">my code</a></td>
+            <td align=center></td>
+            <td align=center></td>
+        </tr>
     </tbody>
 </table>
 
